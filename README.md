@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👩‍💻 About Me<br><br>Hi, I'm Ramya!<br><br>🎓 2nd Year Computer Science student  <br>💻 I know basic Python, C, and Java  <br>🧠 Practicing Data Structures & Algorithms on LeetCode and GeeksforGeeks  <br>🤖 Interested in AI tools and workflow automation using n8n  <br>📈 Known for maintaining strong learning consistency  <br>🚀 Actively preparing for internship opportunities<br><br>✨ Goal: To build real-world projects and grow as a software developer.<br>⚡ Fun fact: I believe small daily progress beats big one-day motivation 🚀
+Hi, I'm Ramya!<br><br>🎓 2nd Year Computer Science student  <br>💻 I know basic Python, C, and Java  <br>🧠 Practicing Data Structures & Algorithms on LeetCode and GeeksforGeeks  <br>🤖 Interested in AI tools and workflow automation using n8n  <br>📈 Known for maintaining strong learning consistency  <br>🚀 Actively preparing for internship opportunities<br><br>✨ Goal: To build real-world projects and grow as a software developer.<br>⚡ Fun fact: I believe small daily progress beats big one-day motivation 🚀
 
 
 ## 🌐 Socials:
